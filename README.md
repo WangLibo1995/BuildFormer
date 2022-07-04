@@ -1,6 +1,6 @@
 ## [Building extraction with vision transformer](https://ieeexplore.ieee.org/document/9808187) 
 
-*IEEE Transactions on Geoscience and Remote Sensing*, 2022, [Libo Wang](https://WangLibo1995.github.io), Shenghui Fang, [Rui Li](https://lironui.github.io/), Xiaoliang Meng
+*IEEE Transactions on Geoscience and Remote Sensing*, 2022, [Libo Wang](https://WangLibo1995.github.io), Shenghui Fang, Xiaoliang Meng, [Rui Li](https://lironui.github.io/)
 
 ## Introduction
 
